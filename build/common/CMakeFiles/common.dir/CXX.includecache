@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robin/projects/official/ReactorHttp_Cpp/ReactorHttp-Cpp/common/Buffer.cpp
+Buffer.h
+/home/robin/projects/official/ReactorHttp_Cpp/ReactorHttp-Cpp/common/Buffer.h
+stdio.h
+-
+stdlib.h
+-
+sys/uio.h
+-
+string.h
+-
+unistd.h
+-
+strings.h
+-
+sys/socket.h
+-
+
+/home/robin/projects/official/ReactorHttp_Cpp/ReactorHttp-Cpp/common/Buffer.h
+string
+-
+
+/home/robin/projects/official/ReactorHttp_Cpp/ReactorHttp-Cpp/common/Channel.cpp
+Channel.h
+/home/robin/projects/official/ReactorHttp_Cpp/ReactorHttp-Cpp/common/Channel.h
+stdlib.h
+-
+
+/home/robin/projects/official/ReactorHttp_Cpp/ReactorHttp-Cpp/common/Channel.h
+functional
+-
+
